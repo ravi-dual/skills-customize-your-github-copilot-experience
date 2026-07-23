@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "consuming-apis-with-requests",
+      "title": "Consuming APIs with Python Requests",
+      "description": "Make HTTP requests, parse JSON, and display data from a public API",
+      "path": "assignments/consuming-apis-with-requests",
+      "dueDate": "2026-07-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
